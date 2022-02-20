@@ -4,7 +4,7 @@
 
 > ## From The Odin Project's [curriculum](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs/lessons/blog-api)
 
-> - [CMS live demo](https://drenchoman.github.io/blogapi_cms/
+> - [CMS live demo](https://drenchoman.github.io/blogapi_cms/)
 
 > - [Link to API](https://github.com/drenchoman/blog_api)
 
